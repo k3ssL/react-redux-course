@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond', sans-serif;
+}
