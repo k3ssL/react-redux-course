@@ -6,8 +6,10 @@
 
 @font-face {
     font-family: 'Montserrat', sans-serif;
+    src: url("../shared/fonts/Montserrat-Regular.ttf");
 }
 
 @font-face {
     font-family: 'Cormorant Garamond', sans-serif;
+    src: url("../shared/fonts/CormorantGaramond-Regular.ttf");
 }
