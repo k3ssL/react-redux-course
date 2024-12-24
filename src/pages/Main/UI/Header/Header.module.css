@@ -2,4 +2,14 @@
     width: 100%;
     height: 647px;
     background: linear-gradient(to right, #320301 0%, #550603 44%, #320301 100%);
+    padding: 36px 0 0 62px;
+}
+
+.container > nav {
+    width: 370px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
 }
