@@ -5,11 +5,11 @@
 }
 
 @font-face {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     src: url("../shared/fonts/Montserrat-Regular.ttf");
 }
 
 @font-face {
-    font-family: 'Cormorant Garamond', sans-serif;
+    font-family: Cormorant Garamond;
     src: url("../shared/fonts/CormorantGaramond-Regular.ttf");
 }
